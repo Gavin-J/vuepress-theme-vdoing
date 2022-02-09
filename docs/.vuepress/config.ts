@@ -160,7 +160,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: 'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg',
+      avatar: 'https://cdn.jsdelivr.net/gh/Gavin-J/yixiuge-doc-img/blog/WechatIMG3.jpeg',
       name: '刺客',
       slogan: '架构界的小学生',
     },
@@ -191,7 +191,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     footer: {
       createYear: 2018, // 博客创建年份
       copyrightInfo:
-        'Evan Xu | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签或换行标签</br>
+        '辽ICP备15011496号 | <a href="https://doc.yixiuge.pub" target="_blank">YIXIUGE DOC</a>', // 博客版权信息，支持a标签或换行标签</br>
     },
 
     // 自定义hmtl(广告)模块
