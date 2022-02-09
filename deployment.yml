@@ -20,7 +20,7 @@ spec:
       containers:
         - name: yixiuge-cloud-doc
           imagePullPolicy: Always
-          image: registry.cn-shanghai.aliyuncs.com/yixiuge/yixiuge-cloud-doc:20220209113657
+          image: registry.cn-shanghai.aliyuncs.com/yixiuge/yixiuge-cloud-doc:20220209123520
           ports:
             - containerPort: 80
 
