@@ -37,7 +37,7 @@ spec:
     app: yixiuge-cloud-doc
   ports:
     - protocol: TCP
-      nodePort: 30600
+      nodePort: 30810
       port: 80
       targetPort: 80
   type: NodePort
