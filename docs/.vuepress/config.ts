@@ -80,6 +80,12 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
               { text: 'Java设计模式', link: '/note/design_pattern/' },
             ],
           },
+          {
+            text: 'Java',
+            items: [
+              { text: 'Java文章', link: '/pages/3332c7/' },
+            ],
+          },
         ],
       },
       {
